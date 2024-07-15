@@ -1,0 +1,10 @@
+print("Poem is Here")
+
+print("Hold fast to dreams")
+print("For if dreams die")
+print("Life is a broken-winged bird")
+print("That cannot fly.")
+print("Hold fast to dreams")
+print("For when dreams go")
+print("Life is a barren field")
+print("Frozen with snow.")
