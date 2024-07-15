@@ -4,7 +4,7 @@
 # Multiple line comment
 """
 Student of BSSE
-6 Semester
+7 Semester
 """
 print("Hey I am a\' \"good girl\"\nand student of FUSST")
 
