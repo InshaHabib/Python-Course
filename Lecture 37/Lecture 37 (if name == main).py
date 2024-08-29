@@ -1,3 +1,0 @@
-import inshafile
-
-inshafile.welcome()
